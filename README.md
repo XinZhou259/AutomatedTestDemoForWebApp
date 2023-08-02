@@ -4,7 +4,7 @@
 **Setup environment:**
 1.	Download the test scripts folder “TestDemoForPhotoFolio” and the testing website folder “PhotoFolio”.
 2.	Open test scripts project “PhotoFolio” with VS, find file “BaseTest.cs” under Tests folder.
-3.	Change the website url to your file location for websit folder “PhotoFolio” on line 19.
+3.	Change the website url to your local file location for websit folder “PhotoFolio” on line 19.
 
 **Test scripts brief description:**
 1.	There are three test classes under Tests folder. They are: BaseTest.cs, HomePageTests.cs, ContactPageTests.cs.
